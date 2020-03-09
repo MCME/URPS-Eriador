@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "block/double_slab_stonebrick_seamless",
+    "down": "block/double_slab_stonebrick_seamless",
+    "up": "block/double_slab_stonebrick_seamless",
+    "north": "block/glazed_terracotta_brown_nw",
+    "east": "block/glazed_terracotta_brown_es",
+    "south": "block/glazed_terracotta_brown_es_l",
+    "west": "block/glazed_terracotta_brown_nw_r"
+  }
+}
