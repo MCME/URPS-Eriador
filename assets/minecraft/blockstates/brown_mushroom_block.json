@@ -72,7 +72,11 @@
       "apply": {
       "model": "block/brown_mushroom_block_nswu"
     }},
-    { "when": { "east": false, "up": false },
+    { "when": {"north": true, "west": true, "south": true, "east": false, "up": false, "down": true },
+      "apply": {
+      "model": "block/brown_mushroom_block_nswd"
+    }},
+    { "when": { "east": false, "up": false, "down": false },
       "apply": {
       "model": "block/unused_cross_0"
     }},
