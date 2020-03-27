@@ -60,50 +60,50 @@
         "powered": "false"
       },
       "apply": {
+        "model": "block/wooden_door_bottom_rh",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "half": "lower",
+        "hinge": "right",
+        "open": "false",
+        "powered": "false"
+      },
+      "apply": {
+        "model": "block/wooden_door_bottom_rh",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "half": "lower",
+        "hinge": "right",
+        "open": "false",
+        "powered": "false"
+      },
+      "apply": {
+        "model": "block/wooden_door_bottom_rh",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "north",
+        "half": "lower",
+        "hinge": "right",
+        "open": "false",
+        "powered": "false"
+      },
+      "apply": {
         "model": "block/wooden_door_bottom_rh"
       }
     },
     {
       "when": {
-        "facing": "south",
-        "half": "lower",
-        "hinge": "right",
-        "open": "false",
-        "powered": "false"
-      },
-      "apply": {
-        "model": "block/wooden_door_bottom_rh",
-        "y": 90
-      }
-    },
-    {
-      "when": {
-        "facing": "west",
-        "half": "lower",
-        "hinge": "right",
-        "open": "false",
-        "powered": "false"
-      },
-      "apply": {
-        "model": "block/wooden_door_bottom_rh",
-        "y": 180
-      }
-    },
-    {
-      "when": {
-        "facing": "north",
-        "half": "lower",
-        "hinge": "right",
-        "open": "false",
-        "powered": "false"
-      },
-      "apply": {
-        "model": "block/wooden_door_bottom_rh",
-        "y": 270
-      }
-    },
-    {
-      "when": {
         "facing": "east",
         "half": "lower",
         "hinge": "left",
@@ -111,7 +111,7 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/wooden_door_bottom_rh_open",
+        "model": "block/wooden_door_bottom_open",
         "y": 90
       }
     },
@@ -124,7 +124,7 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/wooden_door_bottom_rh_open",
+        "model": "block/wooden_door_bottom_open",
         "y": 180
       }
     },
@@ -133,31 +133,6 @@
         "facing": "west",
         "half": "lower",
         "hinge": "left",
-        "open": "true",
-        "powered": "false"
-      },
-      "apply": {
-        "model": "block/wooden_door_bottom_rh_open",
-        "y": 270
-      }
-    },
-    {
-      "when": {
-        "facing": "north",
-        "half": "lower",
-        "hinge": "left",
-        "open": "true",
-        "powered": "false"
-      },
-      "apply": {
-        "model": "block/wooden_door_bottom_rh_open"
-      }
-    },
-    {
-      "when": {
-        "facing": "east",
-        "half": "lower",
-        "hinge": "right",
         "open": "true",
         "powered": "false"
       },
@@ -168,9 +143,9 @@
     },
     {
       "when": {
-        "facing": "south",
+        "facing": "north",
         "half": "lower",
-        "hinge": "right",
+        "hinge": "left",
         "open": "true",
         "powered": "false"
       },
@@ -180,6 +155,31 @@
     },
     {
       "when": {
+        "facing": "east",
+        "half": "lower",
+        "hinge": "right",
+        "open": "true",
+        "powered": "false"
+      },
+      "apply": {
+        "model": "block/wooden_door_bottom_rh_open"
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "half": "lower",
+        "hinge": "right",
+        "open": "true",
+        "powered": "false"
+      },
+      "apply": {
+        "model": "block/wooden_door_bottom_rh_open",
+        "y": 90
+      }
+    },
+    {
+      "when": {
         "facing": "west",
         "half": "lower",
         "hinge": "right",
@@ -187,8 +187,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/wooden_door_bottom_open",
-        "y": 90
+        "model": "block/wooden_door_bottom_rh_open",
+        "y": 180
       }
     },
     {
@@ -200,13 +200,52 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/wooden_door_bottom_open",
-        "y": 180
+        "model": "block/wooden_door_bottom_rh_open",
+        "y": 270
       }
     },
     {
       "when": {
         "facing": "east",
+        "half": "upper",
+        "hinge": "left",
+        "open": "false",
+        "powered": "false"
+      },
+      "apply": {
+        "model": "block/wooden_door_top",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "half": "upper",
+        "hinge": "left",
+        "open": "false",
+        "powered": "false"
+      },
+      "apply": {
+        "model": "block/wooden_door_top",
+        "y": 180
+      }
+    },
+    {
+      "when": {
+        "facing": "west",
+        "half": "upper",
+        "hinge": "left",
+        "open": "false",
+        "powered": "false"
+      },
+      "apply": {
+        "model": "block/wooden_door_top",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "facing": "north",
         "half": "upper",
         "hinge": "left",
         "open": "false",
@@ -218,46 +257,46 @@
     },
     {
       "when": {
-        "facing": "south",
+        "facing": "east",
         "half": "upper",
-        "hinge": "left",
+        "hinge": "right",
         "open": "false",
         "powered": "false"
       },
       "apply": {
-        "model": "block/wooden_door_top",
+        "model": "block/wooden_door_top_rh",
         "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "half": "upper",
+        "hinge": "right",
+        "open": "false",
+        "powered": "false"
+      },
+      "apply": {
+        "model": "block/wooden_door_top_rh",
+        "y": 180
       }
     },
     {
       "when": {
         "facing": "west",
         "half": "upper",
-        "hinge": "left",
+        "hinge": "right",
         "open": "false",
         "powered": "false"
       },
       "apply": {
-        "model": "block/wooden_door_top",
-        "y": 180
-      }
-    },
-    {
-      "when": {
-        "facing": "north",
-        "half": "upper",
-        "hinge": "left",
-        "open": "false",
-        "powered": "false"
-      },
-      "apply": {
-        "model": "block/wooden_door_top",
+        "model": "block/wooden_door_top_rh",
         "y": 270
       }
     },
     {
       "when": {
-        "facing": "east",
+        "facing": "north",
         "half": "upper",
         "hinge": "right",
         "open": "false",
@@ -269,45 +308,6 @@
     },
     {
       "when": {
-        "facing": "south",
-        "half": "upper",
-        "hinge": "right",
-        "open": "false",
-        "powered": "false"
-      },
-      "apply": {
-        "model": "block/wooden_door_top_rh",
-        "y": 90
-      }
-    },
-    {
-      "when": {
-        "facing": "west",
-        "half": "upper",
-        "hinge": "right",
-        "open": "false",
-        "powered": "false"
-      },
-      "apply": {
-        "model": "block/wooden_door_top_rh",
-        "y": 180
-      }
-    },
-    {
-      "when": {
-        "facing": "north",
-        "half": "upper",
-        "hinge": "right",
-        "open": "false",
-        "powered": "false"
-      },
-      "apply": {
-        "model": "block/wooden_door_top_rh",
-        "y": 270
-      }
-    },
-    {
-      "when": {
         "facing": "east",
         "half": "upper",
         "hinge": "left",
@@ -315,8 +315,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/wooden_door_top_rh_open",
-        "y": 90
+        "model": "block/wooden_door_top_open",
+        "y": 180
       }
     },
     {
@@ -324,44 +324,6 @@
         "facing": "south",
         "half": "upper",
         "hinge": "left",
-        "open": "true",
-        "powered": "false"
-      },
-      "apply": {
-        "model": "block/wooden_door_top_rh_open",
-        "y": 180
-      }
-    },
-    {
-      "when": {
-        "facing": "west",
-        "half": "upper",
-        "hinge": "left",
-        "open": "true",
-        "powered": "false"
-      },
-      "apply": {
-        "model": "block/wooden_door_top_rh_open",
-        "y": 270
-      }
-    },
-    {
-      "when": {
-        "facing": "north",
-        "half": "upper",
-        "hinge": "left",
-        "open": "true",
-        "powered": "false"
-      },
-      "apply": {
-        "model": "block/wooden_door_top_rh_open"
-      }
-    },
-    {
-      "when": {
-        "facing": "east",
-        "half": "upper",
-        "hinge": "right",
         "open": "true",
         "powered": "false"
       },
@@ -372,9 +334,9 @@
     },
     {
       "when": {
-        "facing": "south",
+        "facing": "west",
         "half": "upper",
-        "hinge": "right",
+        "hinge": "left",
         "open": "true",
         "powered": "false"
       },
@@ -384,6 +346,44 @@
     },
     {
       "when": {
+        "facing": "north",
+        "half": "upper",
+        "hinge": "left",
+        "open": "true",
+        "powered": "false"
+      },
+      "apply": {
+        "model": "block/wooden_door_top_open",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "east",
+        "half": "upper",
+        "hinge": "right",
+        "open": "true",
+        "powered": "false"
+      },
+      "apply": {
+        "model": "block/wooden_door_top_rh_open"
+      }
+    },
+    {
+      "when": {
+        "facing": "south",
+        "half": "upper",
+        "hinge": "right",
+        "open": "true",
+        "powered": "false"
+      },
+      "apply": {
+        "model": "block/wooden_door_top_rh_open",
+        "y": 90
+      }
+    },
+    {
+      "when": {
         "facing": "west",
         "half": "upper",
         "hinge": "right",
@@ -391,8 +391,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/wooden_door_top_open",
-        "y": 90
+        "model": "block/wooden_door_top_rh_open",
+        "y": 180
       }
     },
     {
@@ -404,8 +404,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/wooden_door_top_open",
-        "y": 180
+        "model": "block/wooden_door_top_rh_open",
+        "y": 270
       }
     },
     {

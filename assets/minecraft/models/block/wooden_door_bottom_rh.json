@@ -1,8 +1,6 @@
 {
-  "parent": "block/door_bottom_rh",
+  "parent": "block/trapdoor_open",
   "textures": {
-    "particle": "block/stone_bricks",
-    "bottom": "block/stone_bricks",
-    "top": "block/stone_bricks"
+    "texture": "block/double_slab_polished_diorite"
   }
 }

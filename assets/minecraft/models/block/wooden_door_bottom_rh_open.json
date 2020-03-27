@@ -1,7 +1,6 @@
 {
-  "parent": "block/door_bottom_rh",
+  "parent": "block/trapdoor_open",
   "textures": {
-    "bottom": "block/quartz_block",
-    "top": "block/quartz_block"
+    "texture": "block/infested_stone"
   }
 }

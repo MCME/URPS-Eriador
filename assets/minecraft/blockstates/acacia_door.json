@@ -9,7 +9,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/unused_cross_0"
+        "model": "block/unused_trapdoor_open",
+        "y": 90
       }
     },
     {
@@ -21,8 +22,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/unused_cross_0",
-        "y": 90
+        "model": "block/unused_trapdoor_open",
+        "y": 180
       }
     },
     {
@@ -34,8 +35,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/unused_cross_0",
-        "y": 180
+        "model": "block/unused_trapdoor_open",
+        "y": 270
       }
     },
     {
@@ -47,8 +48,7 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/unused_cross_0",
-        "y": 270
+        "model": "block/unused_trapdoor_open"
       }
     },
     {
@@ -60,7 +60,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/unused_cross_0"
+        "model": "block/unused_trapdoor_open",
+        "y": 90
       }
     },
     {
@@ -72,8 +73,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/unused_cross_0",
-        "y": 90
+        "model": "block/unused_trapdoor_open",
+        "y": 180
       }
     },
     {
@@ -85,8 +86,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/unused_cross_0",
-        "y": 180
+        "model": "block/unused_trapdoor_open",
+        "y": 270
       }
     },
     {
@@ -98,8 +99,7 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/unused_cross_0",
-        "y": 270
+        "model": "block/unused_trapdoor_open"
       }
     },
     {
@@ -111,8 +111,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_bottom_rh_open",
-        "y": 90
+        "model": "block/unused_trapdoor_open",
+        "y": 180
       }
     },
     {
@@ -124,8 +124,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_bottom_rh_open",
-        "y": 180
+        "model": "block/unused_trapdoor_open",
+        "y": 270
       }
     },
     {
@@ -137,8 +137,7 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_bottom_rh_open",
-        "y": 270
+        "model": "block/unused_trapdoor_open"
       }
     },
     {
@@ -150,7 +149,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_bottom_rh_open"
+        "model": "block/unused_trapdoor_open",
+        "y": 90
       }
     },
     {
@@ -162,8 +162,7 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_bottom_open",
-        "y": 270
+        "model": "block/unused_trapdoor_open"
       }
     },
     {
@@ -175,7 +174,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_bottom_open"
+        "model": "block/unused_trapdoor_open",
+        "y": 90
       }
     },
     {
@@ -187,8 +187,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_bottom_open",
-        "y": 90
+        "model": "block/unused_trapdoor_open",
+        "y": 180
       }
     },
     {
@@ -200,8 +200,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_bottom_open",
-        "y": 180
+        "model": "block/unused_trapdoor_open",
+        "y": 270
       }
     },
     {
@@ -213,7 +213,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_top"
+        "model": "block/unused_trapdoor_open",
+        "y": 90
       }
     },
     {
@@ -225,8 +226,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_top",
-        "y": 90
+        "model": "block/unused_trapdoor_open",
+        "y": 180
       }
     },
     {
@@ -238,8 +239,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_top",
-        "y": 180
+        "model": "block/unused_trapdoor_open",
+        "y": 270
       }
     },
     {
@@ -251,8 +252,7 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_top",
-        "y": 270
+        "model": "block/unused_trapdoor_open"
       }
     },
     {
@@ -264,7 +264,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_top_hinge"
+        "model": "block/unused_trapdoor_open",
+        "y": 90
       }
     },
     {
@@ -276,8 +277,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_top_hinge",
-        "y": 90
+        "model": "block/unused_trapdoor_open",
+        "y": 180
       }
     },
     {
@@ -289,8 +290,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_top_hinge",
-        "y": 180
+        "model": "block/unused_trapdoor_open",
+        "y": 270
       }
     },
     {
@@ -302,8 +303,7 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_top_hinge",
-        "y": 270
+        "model": "block/unused_trapdoor_open"
       }
     },
     {
@@ -315,8 +315,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_top_rh_open",
-        "y": 90
+        "model": "block/unused_trapdoor_open",
+        "y": 180
       }
     },
     {
@@ -328,8 +328,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_top_rh_open",
-        "y": 180
+        "model": "block/unused_trapdoor_open",
+        "y": 270
       }
     },
     {
@@ -341,8 +341,7 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_top_rh_open",
-        "y": 270
+        "model": "block/unused_trapdoor_open"
       }
     },
     {
@@ -354,7 +353,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_top_rh_open"
+        "model": "block/unused_trapdoor_open",
+        "y": 90
       }
     },
     {
@@ -366,8 +366,7 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_top_open",
-        "y": 270
+        "model": "block/unused_trapdoor_open"
       }
     },
     {
@@ -379,7 +378,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_top_open"
+        "model": "block/unused_trapdoor_open",
+        "y": 90
       }
     },
     {
@@ -391,8 +391,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_top_open",
-        "y": 90
+        "model": "block/unused_trapdoor_open",
+        "y": 180
       }
     },
     {
@@ -404,8 +404,8 @@
         "powered": "false"
       },
       "apply": {
-        "model": "block/acacia_door_top_open",
-        "y": 180
+        "model": "block/unused_trapdoor_open",
+        "y": 270
       }
     },
     {

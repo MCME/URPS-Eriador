@@ -1,7 +1,6 @@
 {
-  "parent": "block/door_top_rh",
+  "parent": "block/trapdoor_open",
   "textures": {
-    "bottom": "block/unusedb00",
-    "top": "block/oak_door_top"
+    "texture": "block/infested_chiseled_stone_bricks"
   }
 }
