@@ -1,9 +1,10 @@
 {
   "multipart": [
     { "when": {"north": true, "west": true, "south": true, "east": true, "up": true, "down": true },
-      "apply": {
-      "model": "block/brown_mushroom_block_neswud"
-    }},
+      "apply": [
+      { "model": "block/brown_mushroom_block_neswud", "weight": 1 },
+      { "model": "block/brown_mushroom_block_neswud_1", "weight": 1 }
+    ]},
     { "when": {"north": true, "west": true, "south": true, "east": true, "up": true, "down": false },
       "apply": {
       "model": "block/brown_mushroom_block_neswu"
@@ -70,27 +71,27 @@
     }},
     { "when": {"north": true, "west": true, "south": true, "east": false, "up": true, "down": false },
       "apply": {
-      "model": "block/brown_mushroom_block_nswu"
+      "model": "block/unused_block"
     }},
     { "when": {"north": true, "west": true, "south": true, "east": false, "up": false, "down": true },
       "apply": {
-      "model": "block/brown_mushroom_block_nswd"
+      "model": "block/unused_block"
     }},
     { "when": { "east": false, "up": false, "down": false },
       "apply": {
-      "model": "block/unused_cross_0"
+      "model": "block/unused_block"
     }},
     { "when": {"south": false, "east": false },
       "apply": {
-      "model": "block/unused_cross_0"
+      "model": "block/unused_block"
     }},
     { "when": {"west": false, "east": false },
       "apply": {
-      "model": "block/unused_cross_0"
+      "model": "block/unused_block"
     }},
     { "when": {"north": false },
       "apply": {
-      "model": "block/unused_cross_0"
+      "model": "block/unused_block"
     }}
   ]
 }
