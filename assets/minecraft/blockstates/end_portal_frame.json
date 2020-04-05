@@ -13,7 +13,7 @@
       "model": "block/placeholder"
     },
     "eye\u003dtrue,facing\u003dsouth": {
-      "model": "block/unused_cross_0"
+      "model": "block/end_portal_frame_filled_south"
     },
     "eye\u003dtrue,facing\u003dwest": {
       "model": "block/end_portal_frame_filled_west"
