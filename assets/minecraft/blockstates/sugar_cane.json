@@ -20,13 +20,25 @@
     },
     {
       "when": {
+        "age": "2"
+      },
+      "apply": {
+        "model": "block/sugar_cane_age2",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "age": "3"
+      },
+      "apply": {
+        "model": "block/sugar_cane_age3",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
         "OR": [
-          {
-            "age": "2"
-          },
-          {
-            "age": "3"
-          },
           {
             "age": "4"
           },
