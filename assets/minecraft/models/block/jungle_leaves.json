@@ -1,6 +1,6 @@
 {
     "parent": "block/leaves",
     "textures": {
-        "all": "block/oak_leaves_pf_d7"
+        "all": "block/jungle_leaves"
     }
 }

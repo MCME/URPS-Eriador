@@ -1,7 +1,0 @@
-{
-    "multipart": [
-        {   "when": { "persistent": "false", "distance": 7 },
-            "apply": { "model": "block/oak_leaves_pf_d7" }
-        }
-    ]
-}
