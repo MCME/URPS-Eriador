@@ -548,7 +548,7 @@
         "damage": 0.15726
       },
       "name": 78,
-      "model": "block/double_slab_nether_brick_seamless"
+      "model": "block/double_slab_red_nether_bricks"
     },
     {
       "predicate": {
