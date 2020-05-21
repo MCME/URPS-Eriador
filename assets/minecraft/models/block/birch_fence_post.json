@@ -1,0 +1,6 @@
+{
+  "parent": "block/megafence_post",
+  "textures": {
+    "texture": "block/birch_planks"
+  }
+}
