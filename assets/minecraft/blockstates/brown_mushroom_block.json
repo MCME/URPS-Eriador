@@ -77,15 +77,23 @@
       "apply": {
       "model": "block/unused_block"
     }},
+    { "when": {"north": true, "west": false, "south": true, "east": false, "up": true, "down": true },
+      "apply": {
+      "model": "block/brown_mushroom_block_nsud"
+    }},
+    { "when": {"north": true, "west": false, "south": true, "east": false, "up": true, "down": false },
+      "apply": {
+      "model": "block/brown_mushroom_block_nsu"
+    }},
+    { "when": {"north": true, "west": false, "south": true, "east": false, "up": false, "down": true },
+      "apply": {
+      "model": "block/brown_mushroom_block_nsd"
+    }},
     { "when": { "east": false, "up": false, "down": false },
       "apply": {
       "model": "block/unused_block"
     }},
     { "when": {"south": false, "east": false },
-      "apply": {
-      "model": "block/unused_block"
-    }},
-    { "when": {"west": false, "east": false },
       "apply": {
       "model": "block/unused_block"
     }},
